@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922351718284",
+    "firebase_url": "https://domino-chat-4688e.firebaseio.com",
+    "project_id": "domino-chat-4688e",
+    "storage_bucket": "domino-chat-4688e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922351718284:android:1c1a06cbfa0d11d7e610a9",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922351718284-ac4cf9fj1m140fu8f78t6lpp5l3d857s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsKVNS66QW-GILDrAJS94SyA8khf_LfFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922351718284-ac4cf9fj1m140fu8f78t6lpp5l3d857s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
